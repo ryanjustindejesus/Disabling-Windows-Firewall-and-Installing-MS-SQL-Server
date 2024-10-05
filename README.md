@@ -1,5 +1,5 @@
 <h1>Disabling Windows Firewall and Installing MS SQL Server</h1>
-This tutorial outlines disabling Windows Firewall on the windows virtual machine and installing MS SQL Server
+<b>This tutorial outlines disabling Windows Firewall on the windows virtual machine and installing MS SQL Server</b>
 
 <h2>Environments and Technologies Used</h2>
 
